@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/MuJoCoTest.git": [
+      "madhephaestus/MuJoCoTest",
+      "1704922811066"
+    ],
     "https://github.com/dromero2025/GOOBY.git": [
       "https://github.com/dromero2025/GOOBY.git",
       "1704920762828"
