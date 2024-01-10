@@ -10,6 +10,9 @@
     ]
   },
   "studio-open-web": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {
     "https://github.com/dromero2025/GOOBY.git:GOOBY.xml": [
       "https://github.com/dromero2025/GOOBY.git",
@@ -19,5 +22,14 @@
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoMobileBase.groovy"
     ]
+  },
+  "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "tutorialBranch": "deploy",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
+    "fontsize": 12,
+    "skinBranch": "2.10.6",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "notifiedArduinoDep": true
   }
 }
