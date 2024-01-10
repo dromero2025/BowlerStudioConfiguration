@@ -18,6 +18,10 @@
       "https://github.com/dromero2025/GOOBY.git",
       "GOOBY.xml"
     ],
+    "https://github.com/dromero2025/practiceCADfor6dofGOOBER.git:practiceCADfor6dofGOOBER.xml": [
+      "https://github.com/dromero2025/practiceCADfor6dofGOOBER.git",
+      "practiceCADfor6dofGOOBER.xml"
+    ],
     "https://github.com/madhephaestus/MuJoCoTest.git:MujocoMobileBase.groovy": [
       "https://github.com/madhephaestus/MuJoCoTest.git",
       "MujocoMobileBase.groovy"
