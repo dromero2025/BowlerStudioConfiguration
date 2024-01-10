@@ -1,9 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/dromero2025/GOOBY.git": [
+      "https://github.com/dromero2025/GOOBY.git",
+      "1704920762828"
+    ]
+  },
   "studio-open-web": {},
-  "BowlerStudioConfigs": {
-    "fontsize": 12.0,
-    "skinBranch": "0.25.2",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
-  }
+  "studio-open-git": {}
 }
