@@ -6,5 +6,10 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {}
+  "studio-open-git": {
+    "https://github.com/dromero2025/GOOBY.git:GOOBY.xml": [
+      "https://github.com/dromero2025/GOOBY.git",
+      "GOOBY.xml"
+    ]
+  }
 }
