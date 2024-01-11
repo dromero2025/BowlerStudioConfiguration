@@ -8,6 +8,10 @@
       "dromero2025/practiceArm",
       "1704934808656"
     ],
+    "https://github.com/dromero2025/javaCad_dromero2025.git": [
+      "dromero2025/javaCad_dromero2025",
+      "1704936913848"
+    ],
     "https://github.com/dromero2025/GOOBY.git": [
       "https://github.com/dromero2025/GOOBY.git",
       "1704920762828"
@@ -38,13 +42,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/dromero2025/Goologoi.git:Goologoi.xml": [
-      "https://github.com/dromero2025/Goologoi.git",
-      "Goologoi.xml"
-    ],
-    "https://github.com/dromero2025/practiceArm.git:practiceArm.xml": [
-      "https://github.com/dromero2025/practiceArm.git",
-      "practiceArm.xml"
+    "https://github.com/dromero2025/javaCad_dromero2025.git:javaCad.groovy": [
+      "https://github.com/dromero2025/javaCad_dromero2025.git",
+      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
