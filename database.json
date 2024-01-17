@@ -4,6 +4,10 @@
       "madhephaestus/MuJoCoTest",
       "1704922811066"
     ],
+    "https://github.com/dromero2025/MoveLimb_dromero2025.git": [
+      "https://github.com/dromero2025/MoveLimb_dromero2025.git",
+      "1705505565293"
+    ],
     "https://github.com/dromero2025/practiceArm.git": [
       "dromero2025/practiceArm",
       "1704934808656"
@@ -46,9 +50,13 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/dromero2025/DOODY.git:DOODY.groovy": [
-      "https://github.com/dromero2025/DOODY.git",
-      "DOODY.groovy"
+    "https://github.com/dromero2025/GOOBY.git:GOOBY.xml": [
+      "https://github.com/dromero2025/GOOBY.git",
+      "GOOBY.xml"
+    ],
+    "https://github.com/dromero2025/MoveLimb_dromero2025.git:MoveLimb.groovy": [
+      "https://github.com/dromero2025/MoveLimb_dromero2025.git",
+      "MoveLimb.groovy"
     ]
   },
   "BowlerStudioConfigs": {
