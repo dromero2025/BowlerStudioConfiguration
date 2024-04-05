@@ -70,10 +70,6 @@
       "https://github.com/dromero2025/ArmV1.git",
       "ArmV1.xml"
     ],
-    "https://github.com/dromero2025/MoveLimb_dromero2025.git:MoveLimb.groovy": [
-      "https://github.com/dromero2025/MoveLimb_dromero2025.git",
-      "MoveLimb.groovy"
-    ],
     "https://github.com/dromero2025/moveWristClass.git:moveWristClass.groovy": [
       "https://github.com/dromero2025/moveWristClass.git",
       "moveWristClass.groovy"
