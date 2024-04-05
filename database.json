@@ -62,9 +62,9 @@
       "https://github.com/dromero2025/dee6dofarm10.git",
       "dee6dofarm10.groovy"
     ],
-    "https://github.com/dromero2025/GOOBY.git:GOOBY.xml": [
-      "https://github.com/dromero2025/GOOBY.git",
-      "GOOBY.xml"
+    "https://github.com/dromero2025/ArmV1.git:ArmV1.xml": [
+      "https://github.com/dromero2025/ArmV1.git",
+      "ArmV1.xml"
     ],
     "https://github.com/dromero2025/MoveLimb_dromero2025.git:MoveLimb.groovy": [
       "https://github.com/dromero2025/MoveLimb_dromero2025.git",
